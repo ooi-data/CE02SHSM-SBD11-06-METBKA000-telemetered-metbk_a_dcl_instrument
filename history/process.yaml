@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD11-06-METBKA000-telemetered-metbk_a_dcl_instrument
 data_stream: CE02SHSM-SBD11-06-METBKA000-telemetered-metbk_a_dcl_instrument
 end_date: '2021-12-31T22:31:32.750Z'
-last_updated: '2022-01-22T03:25:03.968402Z'
+last_updated: '2022-01-22T03:39:17.105547'
 start_date: '2015-04-02T20:41:42.030Z'
-status: pending
+status: success
